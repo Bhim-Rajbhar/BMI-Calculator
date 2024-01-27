@@ -6,7 +6,9 @@
 BMI full form is Body Mass Index.
 Formula for calculating BMI :
 
-BMI = Weight / Height ** 2
+BMI = Weight / Height ** 2 
+or
+BMI = kg/m2
 
 '''
 
